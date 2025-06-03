@@ -13,11 +13,11 @@ var isLoggedIN= false;
 
 var LoggedCount = 1000;
 // console.log(LoggedCount);
-// console.log("LoggedCount");
+// console.log("LoggedCount"); 
 
 
 var paymentMode;
-console.log(paymentMode);
+console.log(paymentMode);//undefined
 var paymentMode = "credit card";
 console.log(paymentMode);// credit card
  
