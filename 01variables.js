@@ -20,3 +20,4 @@ var paymentMode;
 console.log(paymentMode);//undefined
 var paymentMode = "credit card";
 console.log(paymentMode);// credit card
+console.log("This is file 01");

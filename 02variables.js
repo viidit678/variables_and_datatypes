@@ -38,4 +38,6 @@ console.log(`
    and confirm password is :&{confirmPassword}
 
     `);
+    console.log("This is file 02");
+
   
